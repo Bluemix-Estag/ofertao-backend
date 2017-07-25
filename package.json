@@ -1,0 +1,19 @@
+{
+  "name": "Carrefour",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "1.17.x",
+    "cloudant": "1.7.x",
+    "express": "4.15.x",
+    "geolib": "^2.0.22",
+    "method-override": "^2.3.9"
+  },
+  "repository": {},
+  "engines": {
+    "node": "6.x"
+  }
+}

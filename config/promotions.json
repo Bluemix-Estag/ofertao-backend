@@ -1,0 +1,2679 @@
+{
+    "data": [
+        {
+            "id": "AdD8cwAnby9y94RW6VjVqiLtLH6NjgpASpgurw5MAZUoFeScIOi7bjnrpXEuGGohSqjTewGyYHsTrHj0moKe2XYOlPMyLmtMDgw9",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Massas, molhos e sopas",
+            "name": "Molho de Tomate Predilecta",
+            "description": "sachê - 340g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7216491.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 0,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,09",
+                "price": "1,45"
+            }
+        },
+        {
+            "id": "icvh83iwGgomaghTKz43EbPGQI75fJy24LpNsoR4hNX8E6LlPO650zmED39ifvaMdXingUmAfH5vhrSlGcIh4VBULFKMUnoEoAX1",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Massas, molhos e sopas",
+            "name": "Macarrão c/ Ovos Dona Benta",
+            "description": "tipos - 500g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/2671808.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 2,
+            "extraField": {
+                "price": "1,85"
+            }
+        },
+        {
+            "id": "QtJhxiHZdCinGfPF7J87kwkV5oVwQpYuGHZ2UkIINT01ImapGyPvcJodFp2E4D0toXPzkojsoshupjZZTe6rSsxnau20rcuJNRET",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Frios e laticínios",
+            "name": "Presunto Cozido Perdigão",
+            "description": "magro - fatiado ",
+            "unit": "CADA 100G",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/presunto_magro_fatiado.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 3,
+            "extraField": {
+                "price": "2,59"
+            }
+        },
+        {
+            "id": "XX0mxEEeFVuHnLHne2N0b5W4eG0jBF4brXNKg0mu3Blk9bqE6GjmD4LkJotzdXSQux08dUgbrHrhq88NQXFgSNmIJQf1j0R5HjPD",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Alcoólicos",
+            "name": "Cerveja Estrella Galicia",
+            "description": "lata - 269ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9470603.png"
+            ],
+            "warning": "É proibida a venda de bebidas alcoólicas para menores de 18 anos – Lei Federal 8069/1990. A BEBIDA ALCOÓLICA PODE CAUSAR DEPENDÊNCIA QUÍMICA E, EM EXCESSO, PROVOCA GRAVES MALES À SAÚDE – Lei nº 14.592, de 19 de outubro de 2011 – Estado de São Paulo.",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 4,
+            "extraField": {
+                "y": "10",
+                "x": "12",
+                "promotionalPrice": "2,33",
+                "price": "2,79"
+            }
+        },
+        {
+            "id": "P0WAP3MZpYd8JhW2Jap0EMtQ30I23RUBEsytUXtMNSM9wu19pv1di4hwmb1w5j8KNiY9Xq055V6bLEWrIkUUZBbaY2tjCu20qn7d",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Frios e laticínios",
+            "name": "Presunto Cozido Aurora",
+            "description": "fatiado",
+            "unit": "CADA 100G",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/presunto_magro_fatiado.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 5,
+            "extraField": {
+                "price": "2,79"
+            }
+        },
+        {
+            "id": "oQVK5ziXFv6r42yNQqoDqxU5xiQYD2Lh06twtf7BqLNsioKhPKsD1Eez4rshYuLI75GPoNj9Em4RRDHUPnW8SqH0lRUwsX4QnRLh",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Temperos e condimentos",
+            "name": "Açúcar Refinado União ",
+            "description": "1kg",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/197564.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 6,
+            "extraField": {
+                "price": "2,79"
+            }
+        },
+        {
+            "id": "A8B1UUU33bfkJlnXuX601CZJp8s9JKpSXlZQRLQ5x9LDODg99pwfGce9UtZW6x1kCibmYQwlm61sPpH0NiA0Ayg61J9NjBocDHIf",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Eletrodomésticos",
+            "name": "Filtros de Papel ",
+            "description": "médio - 102 ou grande - 103 - c/ 30 unids.",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8353867.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8353859.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 7,
+            "extraField": {
+                "price": "2,89"
+            }
+        },
+        {
+            "id": "9zmlG8EcbP7pwbAriyeysXvtnksuQz9pajIEXxi1zUKlZeFWJO7C4istYnzfHLn2IvOTzMJFaVUsnXKodBoOjMaoTTofVRHNOM54",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Limpeza e lavanderia",
+            "name": "Limpador Veja Multiúso",
+            "description": "500ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9662715.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 9,
+            "extraField": {
+                "y": "2",
+                "x": "3",
+                "promotionalPrice": "2,57",
+                "price": "3,85"
+            }
+        },
+        {
+            "id": "EwXJbRSp3GmrTB9RkFh6gEiZK04DgKWYiA5RhOj4M7iz2PioIyn6PCb0vMAwmzlSAhRHDwP4cSlNLn7N4HiKk0vziKm1qepi3NpI",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Açougue e Peixaria",
+            "name": "Petit Suisse Danoninho",
+            "description": "sabores - 320g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9999680.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 12,
+            "extraField": {
+                "price": "4,99"
+            }
+        },
+        {
+            "id": "HRrYg7wxYnnokkyygfzB8ODgPuKNm1yo8H7TQUii7AOErGtLabXHkE3O9hCN4wTGHKGpQ0qhK4pkmsRJh5gUmQPRs0h6gIgVudKo",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Fanta",
+            "description": "guaraná - 2 litros",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/5063159.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 13,
+            "extraField": {
+                "y": "2",
+                "x": "3",
+                "promotionalPrice": "3,33",
+                "price": "4,99"
+            }
+        },
+        {
+            "id": "N1ufW4KyzbzTZ5HpmzloXzgwDgVLcK19BQ77a8AUlthY4utyLrRnlYcrVxw88g9UvDMhiRtv3upe0b8mbaPUKfQKkt06fzTq66M2",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Ingredientes Para Preparo",
+            "name": "Requeijão Poços de Caldas",
+            "description": "200g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9865020.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 14,
+            "extraField": {
+                "price": "5,49"
+            }
+        },
+        {
+            "id": "H1EQyZindxz8vybWLcxTTKwlV2FuHLgZkxbX96mqTYhvx9wRnNu0wXiBR1Gc4w23ohiBUMaVsTvlN4ar1bpRwaPdTXCROvjmj8SO",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Limpeza e lavanderia",
+            "name": "Lava-Roupas em Pó Tixan Ypê",
+            "description": "fragrâncias - 1kg",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7195710.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 16,
+            "extraField": {
+                "price": "5,99"
+            }
+        },
+        {
+            "id": "F97aZGSbQVggrQnW94pmby8SrFS1QUdZEB9SOuyZr3X04fo4jhYvKkyKZOjhRkT7NljqrEp67mL3Vt30ylRhybg8nJcfrBDM2DvQ",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Suco Integral Campo Largo",
+            "description": "sabores - 1 litro",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9300864.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 17,
+            "extraField": {
+                "price": "8,90"
+            }
+        },
+        {
+            "id": "4ryDidEWIPCF1oayNqqh6yjVCzOl0fy5uF8mzmDPonnmZnIVv6RyjOff9GQp5TJDQSHeitlzHbMZQG9NLVWW6jPkdQJuNQGctfpO",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Açougue e Peixaria",
+            "name": "Lasanha Sadia ",
+            "description": "sabores - 600g ",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 3,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9991212.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9991220.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 18,
+            "extraField": {
+                "y": "2",
+                "x": "50",
+                "promotionalPrice": "4,99",
+                "price": "9,98"
+            }
+        },
+        {
+            "id": "L8IBKDejsfvCmTHUgjwHzKAlon5zPWxzyeDCK8IExtgYsXGUVurcICosnekzpxqqPKv1IPkcUbPahdddivOXTvjqyTNLnqfaAmAY",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Limpeza e lavanderia",
+            "name": "Lava-Roupas em Pó Brilhante",
+            "description": "fragrâncias - 2kg",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9338055.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 19,
+            "extraField": {
+                "price": "10,90"
+            }
+        },
+        {
+            "id": "XigC0By6YkpavDF9scrKEvDkPBWj1BBmJlv4NlEJRl1Ach95LZZsaXlwbjRDS7Wvm1fLN35DkHlglTmfYMKZG2t5HnTr2dYy8AzA",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Saúde e beleza",
+            "name": "Sabonete Dove",
+            "description": "fragrâncias - embalagem c/ 6 unids. x 90g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9872868.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 20,
+            "extraField": {
+                "price": "10,98"
+            }
+        },
+        {
+            "id": "CiQbs2ku6hdIlVCOzyAhwcIJKFgwf9QPdrOEGkTK8v8kBdAHysmhLxQhIfix1dquoUZerYq05Dpm9S8x8sU72S8DcEltTChRHgJ1",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Saúde e beleza",
+            "name": "Loção Hidratante Nivea Body",
+            "description": "fragrâncias - 400ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 3,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8401586.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 21,
+            "extraField": {
+                "y": "2",
+                "x": "50",
+                "promotionalPrice": "6,99",
+                "price": "13,98"
+            }
+        },
+        {
+            "id": "YOfJg9ahvdhZ0Sx6W0ojXA7T5lBTvCVuczXxeRUENNAOdiOWyUsgQ5O5aIprbUMOyiTS89apJSYZnIvTCCYJrlVgvuCfXYHV4YQ8",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Matinais, grãos e farinhas",
+            "name": "Sucrilhos Kellogg's",
+            "description": "sabores - 730g/780g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7014902.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/837199.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/837199.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 22,
+            "extraField": {
+                "price": "14,99"
+            }
+        },
+        {
+            "id": "NzDS10WpMatp997KRcLF9ybn55zoRWyYRwHxeuo3YmW5Q8fzFikQrXvL39elJX6elT17s7MSH9Bg8xYQY7dULeZgQBQvKb9SLtJi",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Saúde e beleza",
+            "name": "Papel Higiênico Dualette Ultra",
+            "description": "folha dupla - 30m - c/ 16 rolos - Leve 16 rolos Pague 15 ",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9169342.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 23,
+            "extraField": {
+                "price": "15,90"
+            }
+        },
+        {
+            "id": "SsN7C93D3jdpLrTaIyh55z9ZvzmBvf1mZownxwOhXYEmNM3U1JvC6K1zzU9CKQRgvWfiluyRDBuQMx5Bip6d0fIy0ZR0jSReFxnr",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Padaria e matinais",
+            "name": "Cápsulas 3 Corações",
+            "description": "sabores - 75g/80g/90g/110g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9493549.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9493581_R2_0001.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9493700_R2_0001.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9493875.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9690492.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 24,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "11,99",
+                "price": "15,99"
+            }
+        },
+        {
+            "id": "ckgrxpLBnT2wCRebxoqtroXwmdBaQwcbcFl8DRf1erqkWZsjhFiM0uwlP4ogLjzjDSYHQB3ETdojrsBIW72hSna9Y7BM5m0y7DPw",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Congelados e pratos prontos",
+            "name": "Pão de Queijo Forno de Minas",
+            "description": "1kg",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 3,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/627402.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 25,
+            "extraField": {
+                "y": "2",
+                "x": "50",
+                "promotionalPrice": "12,44",
+                "price": "24,88"
+            }
+        },
+        {
+            "id": "erPApDaugG7Fr7SPxGwTY3UJjUfaJJ7mSIbxZdn5HiuFXNLTOYje2SYV5W00tNzTLKI3VNoPPX0NOlNnWm5bHJxKI9ivxGXLmi5J",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Alcoólicos",
+            "name": "Vinho Francês Bordeaux Demazel",
+            "description": "750ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 3,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9513795.png"
+            ],
+            "warning": "É proibida a venda de bebidas alcoólicas para menores de 18 anos – Lei Federal 8069/1990. A BEBIDA ALCOÓLICA PODE CAUSAR  DEPENDÊNCIA QUÍMICA E, EM EXCESSO, PROVOCA GRAVES MALES  À SAÚDE – Lei nº 14.592, de 19 de outubro de 2011 – Estado de São Paulo.",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 26,
+            "extraField": {
+                "y": "2",
+                "x": "50",
+                "promotionalPrice": "17,45",
+                "price": "34,90"
+            }
+        },
+        {
+            "id": "Fmgs6Yf8G9287mgN9Bpi7LsA5UrbwyXbD5i7VBnnjyVIhHx2NplhjfHl5NRlrvqrmgf3kPD2sUe0q0ncWblNPJllWGTgCj9kgJrz",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Saúde e beleza",
+            "name": "Papel Higiênico Kilométrico Personal",
+            "description": "folha dupla - 50m - c/ 20 rolos",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9004041.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 27,
+            "extraField": {
+                "price": "39,90"
+            }
+        },
+        {
+            "id": "3VCM1riq5UCkXkxmG3lbugtHZmbGpJtFn00qvn46wrE0ijzbZCjJznG9Oez1exPFGuu5iNUOMiShZQEWrOV9YlCbezoGGWSu0WDS",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Moda",
+            "name": "Pantufa ou Chinelo de Quarto Disney",
+            "description": "",
+            "unit": "O PAR",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8689008.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8689067 2.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 28,
+            "extraField": {
+                "price": "39,99"
+            }
+        },
+        {
+            "id": "oV0iObJDzxlBpcC311QqVkUSzahX5pNRlqqGIQIEtM7jZ43HKnwMMf7ndlCZpaCArFjj6lXrIhiSzIyLyGB685MqxwDw7nERVbJ3",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Automotivos",
+            "name": "Pneu F600 Firestone",
+            "description": "165/70 - R-13 ou 175/70 - R-13",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 2,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9778241_9778233_9777628_9777644_9778217_9779531_9779019_9779540.png"
+            ],
+            "warning": "Não inclui calota.",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 29,
+            "extraField": {
+                "interest": "0",
+                "finalPrice": "169,00",
+                "splitPrice": "14,08",
+                "splitNumber": "12",
+                "price": "169,00"
+            }
+        },
+        {
+            "id": "magvUKZp5aFbE9v5qKrahbIT5WxNLfTkh01MY5bMZvFkjhLGCfBZeBc6u30hfYZAcVwEUcSgYX7e9j60Vo2spjDzY3wYXPgJxMd2",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Automotivos",
+            "name": "Pneu Touring",
+            "description": "165/70 - R-13 - 79T",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 2,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9777415.png"
+            ],
+            "warning": "Não inclui calota.",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 30,
+            "extraField": {
+                "interest": "0",
+                "finalPrice": "179,00",
+                "splitPrice": "17,90",
+                "splitNumber": "10",
+                "price": "179,00"
+            }
+        },
+        {
+            "id": "P5Xod2gvnurEyoZuETCKw8J3Nh53vHtvO6bnL4JM5RZScOZ0QRJIavwSFyu956xU6vqxA9rUZzFJHNTCpMMbzlZzdEr0tPKJj2Fb",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Outros",
+            "name": "Micro-ondas MI41S",
+            "description": "• função tira-odor • porta espelhada",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 2,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9966730_9966749.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 31,
+            "extraField": {
+                "interest": "0",
+                "finalPrice": "599,00",
+                "splitPrice": "39,93",
+                "splitNumber": "15",
+                "price": "599,00"
+            }
+        },
+        {
+            "id": "FqkXnhHVJlrVpBkauKwX8zE72o7gpmJ4670HqEsDarWsrVaEVh658r9dy7aAflW1ILub3cByH1R7zQCR8lt2p6FEAyQ5NlEVKkFm",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "",
+            "name": "TV 49'' 49LJ5500",
+            "description": "",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 2,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/5037808.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": true,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 33,
+            "extraField": {
+                "interest": "0",
+                "finalPrice": "2699,00",
+                "splitPrice": "179,93",
+                "splitNumber": "15",
+                "price": "2.699,00"
+            }
+        },
+        {
+            "id": "njOeIiAqudvJUKxfj3XSSt4U9Tw1lb4goyvjQBCKYFtO6pEkV1qXYokPoeb58ixpeaasZG3Mnt2vs93mOphT1wet3aL5uslCkFFR",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Refresco em Pó Frisco",
+            "description": "sabores - 25g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8592497.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8592802.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 34,
+            "extraField": {
+                "price": "0,69"
+            }
+        },
+        {
+            "id": "YcHNdPDxxmrUiXsCs03x08jX8Z5iP8MQEjp7jJT2dHrbGACm6Ayr35ZL9vc9XuLGh6mjJnM8EfJ4CrPIC9TyfSr4joouYvRWzl0g",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Coca-Cola",
+            "description": "lata - 220ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9972935.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 36,
+            "extraField": {
+                "price": "0,99"
+            }
+        },
+        {
+            "id": "ykoDQXWkD840KXyBz7lzERv1WcYnZQBtjZXHKMmdTJOvGyZJITZCBw58e2gVXar3kEa1w5axZGN6Y7huhOphx8qa2OxVrs1B6Xgf",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Refrigerante Mini Schin",
+            "description": "sabores - 250ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/603589.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 37,
+            "extraField": {
+                "price": "0,99"
+            }
+        },
+        {
+            "id": "yq2dSd8pl1kyWLYOq7Ru7rNMGSb1QF4lEWax7T2U5GICyCdqCdPFGr8SdiPhzIwSyIOO7LMX2OjWh0y0eYDg41Gu8p35j97ESRbv",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Refrigerante Itubaína",
+            "description": "237ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9160612.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 38,
+            "extraField": {
+                "price": "0,99"
+            }
+        },
+        {
+            "id": "tTGfQYs8VYEQ8YzB3qzT3pp2MDyjAgAgyetgaMsTHjIyOqfHCiRU5X46TBmagLFFoAGGfKb3K2zsPENxlyZAQPEYpY4VoXFUd9cI",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Padaria e matinais",
+            "name": "Minibolo Roll Cake ou Duo Bauducco ",
+            "description": "sabores - 30g/38g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8814740.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8856389.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 39,
+            "extraField": {
+                "y": "4",
+                "x": "5",
+                "promotionalPrice": "0,79",
+                "price": "0,99"
+            }
+        },
+        {
+            "id": "yfIffJmRHBUh8Wg0SS6GDTId8a9e14nItwTUxAyvXK3AwD6woOLeW3eH9xQBBIgpm7iVZNiEnbXMc3hlfbEYIE8yebtOSbbuL5xk",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Açougue e Peixaria",
+            "name": "Minibolo Ana Maria",
+            "description": "duplo chocolate - 40g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/5003938.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 40,
+            "extraField": {
+                "price": "1,19"
+            }
+        },
+        {
+            "id": "A3Y7M9j5OrmAmnQ8OFjgFH3gZONyF3AkrKB8ogat0cuIXKiCVHH4pFqPgGD2r5kAj1SkHzuZrGD9wPIJSMTMwNFuP0BkraXCbmqL",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Néctar Dafruta Hot Wheels ",
+            "description": "sabores - 200ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9282661.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 41,
+            "extraField": {
+                "price": "1,29"
+            }
+        },
+        {
+            "id": "WNb3pI4To0jjXREMwWOhUgPFtB67XQ8DGGMjwsSsagkeEz5XS1plA7gcMVEfD465chsNSksu0nJKUvB46MYyxgjIYx8utBmayymb",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Frios e laticínios",
+            "name": "Achocolatado Danette",
+            "description": "200ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/3994406.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 42,
+            "extraField": {
+                "price": "1,29"
+            }
+        },
+        {
+            "id": "G0lEySApOFNp6tE9En0J94koijWnswTkpt9xAK9rjfQAsPYWFEBMcV038WvCTzmFDAHMRNagD5oM6NYg3VviakPUlrSkRdunTtjd",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Limpeza e lavanderia",
+            "name": "Lã de Aço Assolan",
+            "description": "c/ 8 unids.",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/4252560.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 43,
+            "extraField": {
+                "y": "2",
+                "x": "3",
+                "promotionalPrice": "0,86",
+                "price": "1,29"
+            }
+        },
+        {
+            "id": "4RJc7bHdmkDRw1DtbQqHV9aH4naWfwkjGn8fx6JjYQTpUecNnwhQKTFfe5cwfLebogngnze6oKTVF98k5BTZAMDeW2SwLW9pbRWN",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Massas, molhos e sopas",
+            "name": "Molho de Tomate Carrefour ",
+            "description": "sachê - 340g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8260125.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 44,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "0,97",
+                "price": "1,29"
+            }
+        },
+        {
+            "id": "8QFYS1OkpsDhnxlgSb7cgBIZXZEMp9j0FNTFdtEQHiDsdnk4JYOVXpvY3ut0DXmgPbmunSiP8OjD0P3oVtIO2KvS6IQpvBh2H5PP",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Alcoólicos",
+            "name": "Cerveja Samba",
+            "description": "lata - 350ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9365834.png"
+            ],
+            "warning": "É proibida a venda de bebidas alcoólicas para menores de 18 anos – Lei Federal 8069/1990. A BEBIDA ALCOÓLICA PODE CAUSAR DEPENDÊNCIA QUÍMICA E, EM EXCESSO, PROVOCA GRAVES MALES À SAÚDE – Lei nº 14.592, de 19 de outubro de 2011 – Estado de São Paulo.",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 45,
+            "extraField": {
+                "y": "10",
+                "x": "12",
+                "promotionalPrice": "1,24",
+                "price": "1,49"
+            }
+        },
+        {
+            "id": "HlOhJVAH4zW06nJkABKxjC1p7wxUtTLB63tH7pyM09qa3a0ol7SquXxKUaupzLq0BjlaeYXvoHXvyrDjjxqLstTh7p0HVfmgli7J",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Frios e laticínios",
+            "name": "Iogurte Natural Nestlé",
+            "description": "sabores - 160g/170g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8706719.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8706727.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 46,
+            "extraField": {
+                "price": "1,49"
+            }
+        },
+        {
+            "id": "WPLr1mzAiwMiYOcB2GF5Qh10Kd07AjdTNsrkP1uLe2g4rNiJuLpzRIHPusg9ZfAuKjmW6jMk9Rs8XXXeidLD4ecOWaZhHg8XsncG",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Padaria e Matinais",
+            "name": "Biscoito Aperitivo Triunfo ",
+            "description": "míni - sabores - 100g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/5051134.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/5051150.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/5051215.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 47,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,12",
+                "price": "1,49"
+            }
+        },
+        {
+            "id": "53FnPcpZPebFtCd1cUgS9AJ57HKMbuXoBzEgdHgoiRnZO8dilDjy8MYHd7SmBNhr5JJ4L75Nm2Lj7dTaViisMMny7FcRc7tc9HdG",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Frios e laticínios",
+            "name": "Iogurte p/ Beber Danoninho ",
+            "description": "profissões - sabores - 100g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9663924.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 48,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,19",
+                "price": "1,59"
+            }
+        },
+        {
+            "id": "QRWy72gkssrLSxzjbnlb9QsyYeoCUbLQUQo27OGREs6aKsDGnd84qs4mKELghacOx40xBHzDSrOGKDc4ufGno7yzHkjnVF7GmJz8",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Massas, molhos e sopas",
+            "name": "Sopa Meu Instante Maggi",
+            "description": "sabores - 20g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8130000.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 49,
+            "extraField": {
+                "y": "4",
+                "x": "5",
+                "promotionalPrice": "1,27",
+                "price": "1,59"
+            }
+        },
+        {
+            "id": "A2AjbnXnfZrTjlh2CvVZwm4CJJLsBK6lXO0mn9BXXhkbUvVpCA8sCstFPZbX4mVfUfntl5ZGZOnAAz7Pe14AAxOoTp2vcBlkxEZ8",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Produtos orgânicos e naturais",
+            "name": "Sopa Madá Mãe Terra",
+            "description": "sabores - 17g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8862818.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 50,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,19",
+                "price": "1,59"
+            }
+        },
+        {
+            "id": "L7hy8JBITvjwSdH6HPhUCYolu7dbUcw7XZQPKK4zgB0TNQYCckip5oiEA0Gy7R71GZqfUbcrHrptwbQT3NVAafyGpxBc7sBUujCq",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Frios e laticínios",
+            "name": "Iogurte Líquido Vigor",
+            "description": "sabores - 180g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7100752.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 51,
+            "extraField": {
+                "price": "1,65"
+            }
+        },
+        {
+            "id": "d24g0LDbbVqC4NmwLAy1i4Uq0PoXoLcVuMapPTHjswnXXhDAfECLzt1ndSDRekYDfluRfq5j04MIaSv1oj2NgsCAkSTUe0l2VmCJ",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Água Tônica Schin",
+            "description": "lata - 350ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/4549074.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 52,
+            "extraField": {
+                "price": "1,69"
+            }
+        },
+        {
+            "id": "NWMlwDP5cVn5xt8gIINTkcIeRQBCba1shzCCfJsNbj43LPX8yKoa4hSP8RbWV2xCvPSPh2Bg2JJyXm3Wz84QjPvMMooVP6E0nlC9",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Água Mineral Mascotes",
+            "description": "Star Wars, Frozen ou Avengers - 330ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8649960_B.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 53,
+            "extraField": {
+                "price": "1,69"
+            }
+        },
+        {
+            "id": "ySpPvUChIT2hb9NH1AlbkinDHlNKcJtiMTW8TLe4Yicd6VxxHysYokVdOXbDgM5lQNCDTbjbqwQai8eKs2kzfb8kM1RuVaaRofNc",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Goma de Mascar Mentos",
+            "description": "sabores - 8g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9773517.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 54,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,27",
+                "price": "1,69"
+            }
+        },
+        {
+            "id": "neLhlMQJcYkSoGsbIZ9yxxjGo5SZ6oW6AhlzmOJ3cvfYDlr2vQ1AkYSVTTi5c6STPkXEA7cutVmQOHdlnIKK6jVgqGGObWMLrbmu",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Chocolate Lacta",
+            "description": "sabores - minitablete - 20g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9704639.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 55,
+            "extraField": {
+                "y": "2",
+                "x": "3",
+                "promotionalPrice": "1,13",
+                "price": "1,69"
+            }
+        },
+        {
+            "id": "wqlDUC9UKjTSdWsgPRJi2KYxJnu5sQDoGdDWEBu8IEbzs03Pp9KqXSGRTf6xdv2L9da8CQzNVau7gmQlJc495nAo9DW8Qjea8CKe",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Chocolate Lancy Lacta",
+            "description": "30g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7916809.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 56,
+            "extraField": {
+                "price": "1,69"
+            }
+        },
+        {
+            "id": "gnYRv8xVUruHNp9iLg7Ne7BualLiB4muBUwOiUJKYkSWb9ELN42HZLD6eQpKcF02YZieyfItqyQz5sAku4uQFe54PfnG5M62dELD",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Padaria e Matinais",
+            "name": "Cookies Carrefour",
+            "description": "60g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8633215.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 57,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,27",
+                "price": "1,69"
+            }
+        },
+        {
+            "id": "ZhrE6EXMLc1BMz0zf4gQqKwunQPB7YQjS4WdxWBtclVvYODXcTrPqEY6qWJHYKn3Gc3qxMdhxW6135zvyBGz936CZixln3GsD6yj",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Água Tônica Prata",
+            "description": "lata - 350ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8269300.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 58,
+            "extraField": {
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "TLQ3WRtwEUMJ9e7UTQsdY2lbZ4GoXZKfCxucKkAFzOwfTHoQvXZkS3hhjtOwdrlbgTbtIjedDeSFrozXrYO6YWJ70URFiNWfhGmf",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Cereais, grãos e farinhas",
+            "name": "Pipoca p/ Micro-ondas PopCorn",
+            "description": "100g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/1277456.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 59,
+            "extraField": {
+                "y": "4",
+                "x": "5",
+                "promotionalPrice": "1,43",
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "RCcdWCG7BknmyyyUdM7R7PTXnDbTjnO8b5nSY86GvQSifPYcWwQdoPs3yP5hnchsM8n7RCGCpVGU4YZiIjmZq2rM1G0O4mvuQYYr",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Cereais, grãos e farinhas",
+            "name": "Pipoca p/ Micro-ondas Caldo Bom",
+            "description": "natural - 100g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/2449943.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 60,
+            "extraField": {
+                "y": "2",
+                "x": "3",
+                "promotionalPrice": "1,19",
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "1LhqOh6yLYrF8MtdH15ZzGEtnKaf7kyxKjigpOCckXHDiWCFQ0S8EowYgGWKjTqg2AMArbylXBuWHPEDDfdhQS31fGag5LeWrfx3",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Congelados e pratos prontos",
+            "name": "Milho ou Ervilha Predilecta",
+            "description": "200g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8380066.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8380090.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 61,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,34",
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "IX69RuqIdsRRa2VwDKGE3CG16l6K8twAf8ZtMgunrri2KGMbPuSxIx2weSeofUd5DH5YDIW2Wt5NED9n67NzR8lBzxgjTPzwKDet",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Congelados e pratos prontos",
+            "name": "Milho-Verde Predilecta",
+            "description": "lata - 200g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8380090.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 62,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,34",
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "Ur3fMYvKTFFijJHShr5h8ZRYsTd6gEcVIiKWyNZghCWKOnODlV3SBnld9oPEEBlm6MxBceSx8HAfmkp4BTtak22nAXXLA4BNIDSQ",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Confeito Stick Mentos",
+            "description": "sabores - 38g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7594569.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 63,
+            "extraField": {
+                "y": "2",
+                "x": "3",
+                "promotionalPrice": "1,19",
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "WC1nsaSKmjoKmX5jQV0J2OgN0G9fjqjE9b2fBOOjzPoaeyM2coJ3ivFVl2MPSwd8XwXQIvTBWv23vrhtNrcmINkqGsLOQivqKqFN",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Biscoito Folhata Adria",
+            "description": "200g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7203616.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 64,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,34",
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "VG3qRhZA4YpR2dneVliXVxvB5kR5QtgAbrnMB5R4WXTuwqLeLeRMBaxAgNfhH6RoTb2yEAXTSeXg96sz6nPdo5YvQppUOnB3qHci",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Biscoito Triunfo",
+            "description": "cream cracker ou água e sal - 200g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/4923677.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 65,
+            "extraField": {
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "ZdTqSQ80Iq1bzecQvXuID4F0zhPICU80A78G4MMuVeukaTJwkRKbx6PEFrMpTZxKHIhwpUop4sTEt31SiBK0V7W3I9tx6mzLnSdu",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Eletrodomésticos",
+            "name": "Guardanapo",
+            "description": "folha simples - 23,5cm x 22cm -  c/ 50 unids.",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/3753280.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 66,
+            "extraField": {
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "avqUBWUtttuKbCksFwXjJEgxZTKvi2fk9T09wzNXaa8ougDIkLKeSqc9hUvtmcm9U8emsQJonh8KrnWwgAHeGINIMaZ4g6a8vGEI",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Saúde e beleza",
+            "name": "Sabonete Francis Clássico",
+            "description": "fragrâncias - 90g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/190209.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 67,
+            "extraField": {
+                "y": "4",
+                "x": "5",
+                "promotionalPrice": "1,43",
+                "price": "1,79"
+            }
+        },
+        {
+            "id": "UYSfkr8DxjniAs9nyWz3QCRUjUlBc9IvU2PppZreoPfhNmzne7fKwC9eq1BKuhhM0azIQE9uuTmsgPSARTB3Lu2acQSEod6veKGL",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Biscoito Passatempo",
+            "description": "leite - 150g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7955979.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 69,
+            "extraField": {
+                "price": "1,89"
+            }
+        },
+        {
+            "id": "JNsS6VmUcdrGYLEEkMGKqA3SLB8gmNGQdJhssownaR57uawsGEEUahXlSYyTh6bvfDW9qK57XT1rubqOi9EgAYyW8Q7QQLYXHLtx",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Chocolate 5Star Lacta",
+            "description": "40g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9716769.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 70,
+            "extraField": {
+                "y": "2",
+                "x": "3",
+                "promotionalPrice": "1,26",
+                "price": "1,89"
+            }
+        },
+        {
+            "id": "dah5jbUqGOnndOt4HaYKJI7FSEqFhfSCm4FfaoibvE3SUWwtuo9oZUgXvoOBxKet58KSgXuFrVpLh2kXdSd3r0AS2sb7gIjOxYPm",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Wafer Carrefour ",
+            "description": "sabores - 165g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8820015.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 71,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,42",
+                "price": "1,89"
+            }
+        },
+        {
+            "id": "RdGHA87cisAwdLGh2YWLxGthfTEofqD16ERR4L1TLsPLIm1IP3ZJakP8rBosBym89AoCngbTKF28P4L16tMyDNvjS9IrW413YYWK",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Frios e laticínios",
+            "name": "Iogurte Grego Vigor",
+            "description": "sabores - 100g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9130438.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 72,
+            "extraField": {
+                "price": "1,89"
+            }
+        },
+        {
+            "id": "30ZNoPz1PD7hu3N9mF28VhcvurwT2glhpeSPUwOGRXKwr5vUclAqxKIEN7leRai1Zy0kFj4VMnAtnv19a5S7D9miYvWaXfyWSge1",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Massas, molhos e sopas",
+            "name": "Sopa Vono",
+            "description": "sabores - 16g/17g/18g/19g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9283668.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 73,
+            "extraField": {
+                "y": "5",
+                "x": "6",
+                "promotionalPrice": "1,58",
+                "price": "1,89"
+            }
+        },
+        {
+            "id": "78IuXiOxTuU88qNd1iH41UhAVSjbGiJVDt53asoss6hup55Ibi8uPEk4Sp0apZYFZAONruQFbgaAdPCSViBGMWaurGkJxLSHuz77",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Padaria e Matinais",
+            "name": "Chocolate Chokko Arcor",
+            "description": "sabores - tablete - 60g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8622760.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 74,
+            "extraField": {
+                "price": "1,89"
+            }
+        },
+        {
+            "id": "B7mdIUPSJ5uGA69C6aAcCJSWD1vbVm0jc5vzZi6VD2CNASA0lHWpo1U7CgzR8OlRlE8R3vIZfEDoswSFW5Cw9gN7TqYFUMDrlhIc",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Padaria e Matinais",
+            "name": "Biscoito Recheado Passatempo ",
+            "description": "sabores - 130g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8611785.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 75,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,46",
+                "price": "1,95"
+            }
+        },
+        {
+            "id": "Qi4g7fPsH8GF1p6m45FCT2Q0qqBYixPORUdNugGs4VtLYcJFGzW37TmVlyhCDrDMvOZ8xpCcl2O25NG1qyK9VFh2mUGDVpjLfhsm",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Açougue e Peixaria",
+            "name": "Petit Suisse p/ Levar Danoninho",
+            "description": "morango - 70g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8641749.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 76,
+            "extraField": {
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "r6ZvFMpIAvPTt7xfmjUh2SAiCyBDlHKBs3IbUlrjr0mxI4twx9XSeGgZMzG8KNe4vNbUJ8yIOytb2UJGlfV08bG8W8xM1wsN40Xf",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Alcoólicos",
+            "name": "Cerveja Pilsen Burguesa",
+            "description": "lata - 350ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8608660.png"
+            ],
+            "warning": "É proibida a venda de bebidas alcoólicas para menores de 18 anos – Lei Federal 8069/1990. A BEBIDA ALCOÓLICA PODE CAUSAR  DEPENDÊNCIA QUÍMICA E, EM EXCESSO, PROVOCA GRAVES MALES  À SAÚDE – Lei nº 14.592, de 19 de outubro de 2011 – Estado de São Paulo.",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 77,
+            "extraField": {
+                "y": "10",
+                "x": "12",
+                "promotionalPrice": "1,66",
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "ihgxirU64Qo2eAO1SutOvn8hxnfnJYxulZ9Den46FcC6x2QZJvjQ1HSVqjCGBzdi5phOo5jCDCTMUnBl7tXw8Y9Vmedjn36cDWGy",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Refrigerante Itubaína Schincariol Retrô ",
+            "description": "long neck - 355ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8273103.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 78,
+            "extraField": {
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "ImqiTTvnK9qxks2prCcsZIYg2zzg0xQEATn5qcNUQsdEI3ts18qqSHUVWvhS7w4FAcyQTq9AdFyPmTYj2LvLybPie8DXM9Klkh0i",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Néctar Del Valle",
+            "description": "sabores - 200ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/4309030.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 79,
+            "extraField": {
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "vrv9lljlT5XNvpxfniNr7ATPkAHaVxGPy5fTsZEoFmSPqoOoeeAC0DYcF5W1LOGbTyE2LEKEZCbyr4gOdKkN49HKMqrtLgrgaUwg",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Refresco Fruit Shoot",
+            "description": "sabores - 275ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9943870.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 80,
+            "extraField": {
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "Yi3RfXRe7PO7nPQEuYIdU9wcEmsaJLObOKaFhBehHLi0VkshKMdkam5S19JxgtS1NuLMJPVLOqjtM6w8ZbqsGSzsRZOjFLXV8QvH",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Congelados e pratos prontos",
+            "name": "Seleta de Legumes Predilecta",
+            "description": "200g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8842272.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 81,
+            "extraField": {
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "5g9wO3Nx3vJ7ZBK0JEJnEr27XkTAOPWElACrIVx9oiG4pFS9tOwwmLRkmlguHl5gmwlbfnkQemDDSiFRRqDbSJk09pP8PPhORRIh",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Chocolate Caribe Garoto",
+            "description": "tablete - 28g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9427341.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 82,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,49",
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "uFrkyOZSa6XMDk5dXj8UuvxSNNtAqGcUwca8t59ox70ZGHK9lPTQfZWrQaiSdFOkscyy3YYQ8DE17TvvOBp7BX78W1qEJVw7pDlR",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Frios e laticínios",
+            "name": "Creme de Leite Parmalat ",
+            "description": "tetra pak - 200g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7164637.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 83,
+            "extraField": {
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "hV3OzlA1QtMmzPKwZbxCfnwvI1yfzzdG04cUu6x6aazzTg8DK1lbqbv2s0E4i9M0M14IMaFKJziJk6WmttiixhmjgckVnqN23Tye",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Padaria e Matinais",
+            "name": "Chocolate Prestígio Nestlé",
+            "description": "sabores - 33g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8595860.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 85,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,49",
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "t0uqXRqHxHrZaYySwGfotJpRyrdj5vv5Ek4PBg7zKKZesZLVV7ZRs2sHx7E6QrLhX5pxPBrjMx87C2zUhsnW5XLypqWg1KdqORmq",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Petshop",
+            "name": "Alimento p/ Gatos Whiskas",
+            "description": "sachê - 85g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/1445014.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 86,
+            "extraField": {
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "qWAgob3RTgWIwKjp17G0qsG0v7Dw2SgURfiQJ6sZv90yJse73sIXtMTIK0kbuadNW5WdV32t5NpZW1pLpSt8PxoFPmSsDH6C6mFZ",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Petshop",
+            "name": "Alimento p/ Cães Dog Chow",
+            "description": "sabores - sachê - 100g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8673993.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8674094 .png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8674094 .png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 87,
+            "extraField": {
+                "y": "5",
+                "x": "6",
+                "promotionalPrice": "1,66",
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "S4iyi2HjtHcKX5qE5sOKNmAock22eF06npdlMRvpVNpj47a01qUVvcZ9RNCum809rWnkPp3McrP70XrIgwJTiPSFd4rrOhanbZYN",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Petshop",
+            "name": "Alimento p/ Cães Ultima",
+            "description": "adultos - sachê - 85g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9767223.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 88,
+            "extraField": {
+                "y": "5",
+                "x": "6",
+                "promotionalPrice": "1,66",
+                "price": "1,99"
+            }
+        },
+        {
+            "id": "OP1YzanLLdEEupNN4ba1xPx4KzI0KXxcsyOpuyDI0CxI3kt22DgN3GD87or8Fg50PNC2dZBNNVC5OS6kbhOlMKZf61SWrBGR3bzh",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Petshop",
+            "name": "Alimento p/ Gatos Whiskas",
+            "description": "sabores - sachê - 85g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/1445014.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/1445103.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 89,
+            "extraField": {
+                "y": "5",
+                "x": "6",
+                "promotionalPrice": "1,71",
+                "price": "2,05"
+            }
+        },
+        {
+            "id": "fJ9JU5EgvYlOp1yC6xMDffYfvyseen2BQ8OUdb8wFdgLZcqcvx82CNebWU7WUhQgznBz6mrkZxSEf5LqwcIhUGlideFeyZ2s8CfG",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Salgadinho Cheetos",
+            "description": "sabores - 49g/ 51g/57g/59g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9905863.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9905910.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 90,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,57",
+                "price": "2,09"
+            }
+        },
+        {
+            "id": "hyq735cVmGCrTNVRKt8yR52gickr7ogKkWuqUAL47EBrJVKLS99jK7PW1wdpBrP6Jg4cEdIePDMO5hQDUslej4CQANUyZC0PQ8FR",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Salgadinho Fandangos",
+            "description": "sabores - 59g/63g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9889833.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9890122.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 91,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,57",
+                "price": "2,09"
+            }
+        },
+        {
+            "id": "Fo8P9gye9t0avnnmrwljXKZysgmxtkQcGMC67bwwHgYcoPJzBBvhGF0WgjXS6joWnkMjg7juNPYnBeaGpvTfRF50hQU1v5HMkMo5",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Massas, molhos e sopas",
+            "name": "Macarrão c/ Ovos Adria",
+            "description": "cortes - 500g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/4180399.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 92,
+            "extraField": {
+                "price": "2,09"
+            }
+        },
+        {
+            "id": "tO0RnCAtIuvXs0B1SniNNi0usbumH1Q4wpDJq0JftFJ9yRx9iMiDSvwYvqf1J3ARR5guGwwynTRWxqOwBD8lYKYWp90xsaXneA3g",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Pipoca Cheetos",
+            "description": "caramelo ou queijo - 27g/55g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9887555.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9887563.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 93,
+            "extraField": {
+                "y": "3",
+                "x": "4",
+                "promotionalPrice": "1,64",
+                "price": "2,19"
+            }
+        },
+        {
+            "id": "nHKfvLrJJbztXvSgf8Vv41tVKogpZeirXFwqkEEveupDzf52gLaZKuMYW371ENg4knTVaUHQTQAQ46SoG3NuYfAmOAPMYPmTRdG5",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Chocolate Nestlé",
+            "description": "sabores - minitablete - 25g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9645586.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 94,
+            "extraField": {
+                "y": "2",
+                "x": "3",
+                "promotionalPrice": "1,46",
+                "price": "2,19"
+            }
+        },
+        {
+            "id": "AcPqVapqVndrsTn1hM0Bj1pNTjl68G2cQgjCWEPzzldQfHihfTKmSzyTvZgnDExAyzBSCPriSn8pCVkhbJ3XPANn4jHuxYwdSjkM",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Biscoito Recheado Oreo",
+            "description": "90g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/5026547.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9403507.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9969721.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 95,
+            "extraField": {
+                "price": "2,19"
+            }
+        },
+        {
+            "id": "l8fFgQANuAmiAI9W0EZY3CX72eBrLfhnMF2KRfysaxPdYcNVG9rucwy15ERTS7QAAjZMaZOFiTJt4mRQmgI5nOVzOeq8eL39jR9E",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Frios e laticínios",
+            "name": "Iogurte Líquido Nestlé",
+            "description": "s/ lactose - sabores - 170g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9901183.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 96,
+            "extraField": {
+                "price": "2,19"
+            }
+        },
+        {
+            "id": "n6xamZhbVaoQViM4qS9AmELLfLg7L6DQXidaTYf2fdIusImNmIhKulLfKHLGAaNw9iPzeG4EMCrMelXmPplRJRL5W4m3ryDI2WO6",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Massas, molhos e sopas",
+            "name": "Molho de Tomate Heinz",
+            "description": "tradicional ou manjericão - sachê - 340g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9462716.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 97,
+            "extraField": {
+                "price": "2,19"
+            }
+        },
+        {
+            "id": "qGMTfccg661dTmMhdKcrFYD9pezrx2Uly6WT7R1HDDI9QTjKwtPtbHqj6db3pMb1XvXP0hVVaomMdqCX8lRaYYLsME9goi7alKRv",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Petshop",
+            "name": "Alimento p/ Cães Pedrigree",
+            "description": "sabores - sachê - 100g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8887748.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8887748_A.png",
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8887748_C.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 98,
+            "extraField": {
+                "y": "5",
+                "x": "6",
+                "promotionalPrice": "1,88",
+                "price": "2,25"
+            }
+        },
+        {
+            "id": "oScejBEZSdADBItdj5zNEjRWCN5NCmTSEMasTNNswNRyhYjSmkWpkpBnuqHDSO3zD5besOjEOYbSqCDinEuI4yo4OCwKqcGnMW61",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Infanto juvenil, bebes e brinquedos",
+            "name": "Sabonete Johnson's Baby",
+            "description": "fragrâncias - 80g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/210692.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 99,
+            "extraField": {
+                "price": "2,28"
+            }
+        },
+        {
+            "id": "UXt0ZTMAtzKhUoArMyJxzeNJ4ZFfrgmvF6AzjwwU6ylMKcH8OVOg3MABpKZapdE56GazO89aBtXmLT1XTd9gCF9qa3jBtMe5V7Nm",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Refrigerante Xamego",
+            "description": "sabores - 2 litros",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9459685.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 100,
+            "extraField": {
+                "price": "2,29"
+            }
+        },
+        {
+            "id": "VNy1beJzJkGwXYcTWJOrAFSCARnpZXUkmeRWHxBrvK7UFWaQsxL00MfW0Rjzx4dSmUbEcSbCIaYvVHJT0qMJlluPplDqt0CmzUZw",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Chocolate Talento Garoto",
+            "description": "sabores - 25g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7394101.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 101,
+            "extraField": {
+                "price": "2,29"
+            }
+        },
+        {
+            "id": "JfkUqukPIoU8ov55Ubq3GWHelvc1fSZoLd2nBP6SJIINS6WSxaGaXa35z8oFuhlusxAGAOK7Lyb1yYmgdNsxH2f5OtYFXwuA41A8",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Chocolate Nestlé",
+            "description": "sabores - 28g/32g/33g/40g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/7908890.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 102,
+            "extraField": {
+                "price": "2,29"
+            }
+        },
+        {
+            "id": "3XTFiW2HSe2TmvDe5AqGw5zbWfmImQ04qZTR06UpILv14irMpM7bbpOHczmNNb9e3HN3WX3KmqGBGRl992b5moAXgoSWCni7Ex9l",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Padaria e matinais",
+            "name": "Bolinho Pingüinos Ana Maria Pullman",
+            "description": "80g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9321810.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 103,
+            "extraField": {
+                "price": "2,29"
+            }
+        },
+        {
+            "id": "NrmisGh2Oh48TLC1xdEqKN6dFZlI0W2lDL2IvHw8kuCqF11Yj5khU0lRay1KauJKZFhT692Qb7YvSStsZATCNmkJ9Dfd7c7N51Mx",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Saúde e beleza",
+            "name": "Lenços de Papel Carrefour",
+            "description": "c/ 50 unids.",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/2548216.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 104,
+            "extraField": {
+                "price": "2,29"
+            }
+        },
+        {
+            "id": "H9YSp9mk7LAGMYVQcbuBMlowXeypgsv7B7XKjNLq3xgisz8YPxMCwxppWNbwVj3t3c3bbqpX5ZDZVyInuwEWyfbc0KoeevuRTKTu",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-28T03:00:00Z",
+            "endDate": "2017-07-09T03:00:00Z",
+            "category": "Alcoólicos",
+            "name": "Cerveja Puro Malte Proibida Mulher",
+            "description": "lata - 269ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/8952167.png"
+            ],
+            "warning": "É proibida a venda de bebidas alcoólicas para menores de 18 anos – Lei Federal 8069/1990. A BEBIDA ALCOÓLICA PODE CAUSAR  DEPENDÊNCIA QUÍMICA E, EM EXCESSO, PROVOCA GRAVES MALES  À SAÚDE – Lei nº 14.592, de 19 de outubro de 2011 – Estado de São Paulo.",
+            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 105,
+            "extraField": {
+                "y": "10",
+                "x": "12",
+                "promotionalPrice": "1,96",
+                "price": "2,35"
+            }
+        },
+        {
+            "id": "kHSEiqbR7mFqwJO4ni6Nt8AMgToUraOvOrmu23RHM9nzXClJTXGDcGOgkXigipnVy4Ndc9FmdeXhrYGDhJK1ag5Ff9ZWI5fAR0dP",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Bebidas",
+            "name": "Guaraná Antarctica Black",
+            "description": "350ml",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 4,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/9628916.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 106,
+            "extraField": {
+                "y": "5",
+                "x": "6",
+                "promotionalPrice": "1,99",
+                "price": "2,39"
+            }
+        },
+        {
+            "id": "P8BapxZcua4MFtl9iYfSK3QduRo6yRCWs2cwLkhQzGZQ7zfbqLIAM3r9u3CgNUIjGZalruWBnJRzyQC3NRQwbLMv775S2rNOA3xa",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Congelados e pratos prontos",
+            "name": "Sardinha Coqueiro",
+            "description": "sabores - 125g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 107,
+            "extraField": {
+                "price": "2,39"
+            }
+        },
+        {
+            "id": "sB0MBZ0sLs7H8dchm0RLCqN86UpaK8NUavxXL1MG7FWcgfKrqfFBB0HHeE17MQQcPApHcTJ6zJz8wIfHNr1cQ0rpzh0yr81cCB7u",
+            "brand": "",
+            "campaign": "ECONOMIA E SUA",
+            "startDate": "2017-06-21T03:00:00Z",
+            "endDate": "2017-06-29T03:00:00Z",
+            "category": "Doces, biscoitos e salgadinhos",
+            "name": "Biscoito Bauducco",
+            "description": "cream cracker ou água e sal - 200g",
+            "unit": "CADA",
+            "region": "SP",
+            "dynamicTypeId": 1,
+            "images": [
+                "https://storage.googleapis.com/carrefour-web-view-homolog/4624025.png"
+            ],
+            "warning": "",
+            "legalDescription": "Oferta válida de 20 a 29/6/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Pêssego, Santo André, Lojas Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
+            "isHighlight": false,
+            "isMyCarrefour": false,
+            "storeId": "103-2",
+            "index": 108,
+            "extraField": {
+                "price": "2,39"
+            }
+        }
+    ],
+    "page": 0,
+    "limit": 100,
+    "hasNext": true,
+    "total": 744
+}
