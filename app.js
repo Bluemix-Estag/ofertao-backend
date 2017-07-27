@@ -82,6 +82,7 @@ function addStores() {
         var stores = {};
         for (var store of data) {
             stores[store.id] = store;
+            stores[store.id]['storeType'] = checkStoreType(store);
         }
         doc['stores'] = stores;
         delete doc['data'];
@@ -95,6 +96,11 @@ function addStores() {
         });
 
     });
+}
+
+function checkStoreType(store){
+    var name = store.name.toLowerCase();
+    return (name.includes("posto"))?"Posto":(name.includes("express"))?"Express":(name.includes("drogaria"))?"Drogaria":(name.includes("bairro"))?"Bairro":"Hipermercado";
 }
 
 

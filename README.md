@@ -89,6 +89,7 @@ Request Body
                 hasScan: false,
                 foodEligible: false,
                 distance: 1.97,
+                "storeType": "Store type",
                 all_promotions: [
                     {
                         id: "promotion_id",
@@ -125,3 +126,6 @@ Request Body
  ```
 
  > Stores property might be empty if there is no near store, also promotions
+
+
+ 
