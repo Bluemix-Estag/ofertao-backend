@@ -161,11 +161,12 @@ function getPromotionByOffer(nearByStores, i, product_offer, storesWithOffer, ca
                     var offers = [];
                     var doc_offers = doc['data'];
                     for (var offer of doc_offers) {
-                        if (product_offer['product'] != null && product_offer['brand'] != null && offer['name'].includes(product_offer['product']) && offer['name'].includes(product_offer['brand'])) {
+                        if (product_offer['product'] != null && product_offer['brand'] != null && offer['name'].toLowerCase().includes(product_offer['product'].toLowerCase()) && offer['name'].toLowerCase().includes(product_offer['brand'].toLowerCase())) {
                             offers.push(offer);
-                        } else if ((product_offer['product'] != null && product_offer['brand'] == null) && (offer['name'].includes(product_offer['product']) && !offer['name'].includes(product_offer['brand']))) {
+                        // } else if ((product_offer['product'] != null && product_offer['brand'] == null) && (offer['name'].toLowerCase().includes(product_offer['product'].toLowerCase()))) {
+                        } else if ((product_offer['product'] != null && product_offer['brand'] == null) &&  hasProduct( offer['name'] , product_offer['product']) ) {
                             offers.push(offer);
-                        } else if ((product_offer['product'] == null && product_offer['brand'] != null) && (!offer['name'].includes(product_offer['product']) && offer['name'].includes(product_offer['brand']))) {
+                        } else if ((product_offer['product'] == null && product_offer['brand'] != null) && ( offer['name'].toLowerCase().includes(product_offer['brand'].toLowerCase()))) {
                             offers.push(offer);
                         }
                     }
@@ -183,6 +184,15 @@ function getPromotionByOffer(nearByStores, i, product_offer, storesWithOffer, ca
             getPromotionByOffer(nearByStores, i + 1, product_offer, storesWithOffer, callback);
         }
     }
+}
+
+function hasProduct(offer, product){
+    offer = offer.toLowerCase();
+    product = product.toLowerCase();
+
+    return offer == product ||  offer.startsWith(product+" ") || offer.endsWith(" "+product) || offer.includes(" "+product+ " ") ; 
+
+
 }
 
 function getPromotionsByCategory(nearByStores, i, category, storesWithOffer, callback) {
