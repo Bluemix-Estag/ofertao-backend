@@ -986,34 +986,6 @@
             }
         },
         {
-            "id": "4RJc7bHdmkDRw1DtbQqHV9aH4naWfwkjGn8fx6JjYQTpUecNnwhQKTFfe5cwfLebogngnze6oKTVF98k5BTZAMDeW2SwLW9pbRWN",
-            "brand": "",
-            "campaign": "ECONOMIA E SUA",
-            "startDate": "2017-06-28T03:00:00Z",
-            "endDate": "2017-07-09T03:00:00Z",
-            "category": "Massas, molhos e sopas",
-            "name": "Molho de Tomate Carrefour ",
-            "description": "sachê - 340g",
-            "unit": "CADA",
-            "region": "SP",
-            "dynamicTypeId": 4,
-            "images": [
-                "https://storage.googleapis.com/carrefour-web-view-homolog/8260125.png"
-            ],
-            "warning": "",
-            "legalDescription": "Oferta válida de 30/6 a 9/7/2017, somente para as lojas Carrefour da Grande São Paulo, Guarujá, Praiamar Shopping e São Vicente, exceto para as Lojas Carrefour Anália Franco, Santo André, Carrefour Bairro e Carrefour Express. Garantimos a quantidade mínima de 10 unidades por loja ou enquanto durarem os estoques, o que ocorrer primeiro. Imagem meramente ilustrativa.",
-            "isHighlight": false,
-            "isMyCarrefour": false,
-            "storeId": "103-2",
-            "index": 44,
-            "extraField": {
-                "y": "3",
-                "x": "4",
-                "promotionalPrice": "0,97",
-                "price": "1,29"
-            }
-        },
-        {
             "id": "8QFYS1OkpsDhnxlgSb7cgBIZXZEMp9j0FNTFdtEQHiDsdnk4JYOVXpvY3ut0DXmgPbmunSiP8OjD0P3oVtIO2KvS6IQpvBh2H5PP",
             "brand": "",
             "campaign": "ECONOMIA E SUA",
@@ -1344,7 +1316,7 @@
             "startDate": "2017-06-21T03:00:00Z",
             "endDate": "2017-06-29T03:00:00Z",
             "category": "Padaria e Matinais",
-            "name": "Cookies Carrefour",
+            "name": "Cookies Walmart",
             "description": "60g",
             "unit": "CADA",
             "region": "SP",
@@ -1697,7 +1669,7 @@
             "startDate": "2017-06-28T03:00:00Z",
             "endDate": "2017-07-09T03:00:00Z",
             "category": "Doces, biscoitos e salgadinhos",
-            "name": "Wafer Carrefour ",
+            "name": "Wafer Walmart ",
             "description": "sabores - 165g",
             "unit": "CADA",
             "region": "SP",
@@ -2549,7 +2521,7 @@
             "startDate": "2017-06-21T03:00:00Z",
             "endDate": "2017-06-29T03:00:00Z",
             "category": "Saúde e beleza",
-            "name": "Lenços de Papel Carrefour",
+            "name": "Lenços de Papel Walmart",
             "description": "c/ 50 unids.",
             "unit": "CADA",
             "region": "SP",

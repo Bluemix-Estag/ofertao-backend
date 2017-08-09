@@ -98,9 +98,9 @@ function addStores() {
     });
 }
 
-function checkStoreType(store){
+function checkStoreType(store) {
     var name = store.name.toLowerCase();
-    return (name.includes("posto"))?"Posto":(name.includes("express"))?"Express":(name.includes("drogaria"))?"Drogaria":(name.includes("bairro"))?"Bairro":"Hipermercado";
+    return (name.includes("posto")) ? "Posto" : (name.includes("express")) ? "Express" : (name.includes("drogaria")) ? "Drogaria" : (name.includes("bairro")) ? "Bairro" : "Hipermercado";
 }
 
 
@@ -163,10 +163,11 @@ function getPromotionByOffer(nearByStores, i, product_offer, storesWithOffer, ca
                     for (var offer of doc_offers) {
                         if (product_offer['product'] != null && product_offer['brand'] != null && offer['name'].toLowerCase().includes(product_offer['product'].toLowerCase()) && offer['name'].toLowerCase().includes(product_offer['brand'].toLowerCase())) {
                             offers.push(offer);
-                        // } else if ((product_offer['product'] != null && product_offer['brand'] == null) && (offer['name'].toLowerCase().includes(product_offer['product'].toLowerCase()))) {
-                        } else if ((product_offer['product'] != null && product_offer['brand'] == null) &&  hasProduct( offer['name'] , product_offer['product']) ) {
+                            // } else if ((product_offer['product'] != null && product_offer['brand'] == null) && (offer['name'].toLowerCase().includes(product_offer['product'].toLowerCase()))) {
+                        } else if ((product_offer['product'] != null && product_offer['brand'] == null) && hasProduct(offer['name'], product_offer['product'])) {
                             offers.push(offer);
-                        } else if ((product_offer['product'] == null && product_offer['brand'] != null) && ( offer['name'].toLowerCase().includes(product_offer['brand'].toLowerCase()))) {
+                        } else if ((product_offer['product'] == null && product_offer['brand'] != null) && hasProduct(offer['name'],
+                                product_offer['brand'])) {
                             offers.push(offer);
                         }
                     }
@@ -186,11 +187,11 @@ function getPromotionByOffer(nearByStores, i, product_offer, storesWithOffer, ca
     }
 }
 
-function hasProduct(offer, product){
+function hasProduct(offer, product) {
     offer = offer.toLowerCase();
     product = product.toLowerCase();
 
-    return offer == product ||  offer.startsWith(product+" ") || offer.endsWith(" "+product) || offer.includes(" "+product+ " ") ; 
+    return offer == product || offer.startsWith(product + " ") || offer.endsWith(" " + product) || offer.includes(" " + product + " ");
 
 
 }
@@ -299,7 +300,7 @@ app.post('/getNearStores', (req, res) => {
 
 function getPromotionByStoreId(nearByStores, i, callback) {
     console.log('store length: ', nearByStores.length, ' i: ', i)
-    if (i >= nearByStores.length - 1) {
+    if (i >= nearByStores.length ) {
         callback(nearByStores);
     } else {
 
@@ -309,6 +310,7 @@ function getPromotionByStoreId(nearByStores, i, callback) {
                     nearByStores[i]['all_promotions'] = [];
                 } else {
                     nearByStores[i]['all_promotions'] = doc['data'];
+                    console.log('passou porra')
                 }
 
                 getPromotionByStoreId(nearByStores, i + 1, callback);
