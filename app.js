@@ -124,7 +124,7 @@ function checkStoresPromotions(stores, i, callback) {
 
 app.post('/getStoresWithOffer', (req, res) => {
 
-    getNearStores(req, (nearByStores, location) => {
+    getNearStores(req,res, (nearByStores, location) => {
         getPromotionByOffer(nearByStores, 0, req.body.product_offer, [], (stores) => {
             res.status(200).json({
                 error: false,
@@ -137,7 +137,7 @@ app.post('/getStoresWithOffer', (req, res) => {
 
 
 app.post('/getOffersByCategory', (req, res) => {
-    getNearStores(req, (nearByStores, location) => {
+    getNearStores(req,res, (nearByStores, location) => {
         getPromotionsByCategory(nearByStores, 0, req.body.category, [], (stores) => {
             res.status(200).json({
                 error: false,
@@ -156,6 +156,7 @@ function getPromotionByOffer(nearByStores, i, product_offer, storesWithOffer, ca
         if (nearByStores[i]['hasPromotions'] == true) {
             db.get('promotions_' + nearByStores[i]['id'], (err, doc) => {
                 if (err) {
+                    console.log('An error ocurred');
                     nearByStores[i]['all_promotions'] = [];
                 } else {
                     var offers = [];
@@ -166,8 +167,7 @@ function getPromotionByOffer(nearByStores, i, product_offer, storesWithOffer, ca
                             // } else if ((product_offer['product'] != null && product_offer['brand'] == null) && (offer['name'].toLowerCase().includes(product_offer['product'].toLowerCase()))) {
                         } else if ((product_offer['product'] != null && product_offer['brand'] == null) && hasProduct(offer['name'], product_offer['product'])) {
                             offers.push(offer);
-                        } else if ((product_offer['product'] == null && product_offer['brand'] != null) && hasProduct(offer['name'],
-                                product_offer['brand'])) {
+                        } else if ((product_offer['product'] == null && product_offer['brand'] != null) && hasProduct(offer['name'], product_offer['brand'])) {
                             offers.push(offer);
                         }
                     }
@@ -232,7 +232,7 @@ function getPromotionsByCategory(nearByStores, i, category, storesWithOffer, cal
 
 
 
-function getNearStores(req, callback) {
+function getNearStores(req,res, callback) {
 
     var data = req.body;
     var location = data.location;
@@ -285,7 +285,7 @@ function getNearStores(req, callback) {
 
 app.post('/getNearStores', (req, res) => {
     res.setHeader('Content-Type', 'application/json');
-    getNearStores(req, (nearByStores, location) => {
+    getNearStores(req,res, (nearByStores, location) => {
         getPromotionByStoreId(nearByStores, 0, (stores) => {
             res.status(200).json({
                 error: false,
