@@ -1,0 +1,25 @@
+{
+  "cloudantNoSQLDB": [
+    {
+      "credentials": {
+        "username": "ac444488-1c3f-4c27-a234-1979d3cf9f04-bluemix",
+        "password": "c784e5460b2f5bc3fbf268dc23052991c74a2e7a5a3fa8730aeb8f9e96f8349d",
+        "host": "ac444488-1c3f-4c27-a234-1979d3cf9f04-bluemix.cloudant.com",
+        "port": 443,
+        "url": "https://ac444488-1c3f-4c27-a234-1979d3cf9f04-bluemix:c784e5460b2f5bc3fbf268dc23052991c74a2e7a5a3fa8730aeb8f9e96f8349d@ac444488-1c3f-4c27-a234-1979d3cf9f04-bluemix.cloudant.com"
+      },
+      "syslog_drain_url": null,
+      "volume_mounts": [],
+      "label": "cloudantNoSQLDB",
+      "provider": null,
+      "plan": "Lite",
+      "name": "carrefour-cloudantNoSQLDB",
+      "tags": [
+        "data_management",
+        "ibm_created",
+        "lite",
+        "ibm_dedicated_public"
+      ]
+    }
+  ]
+}
